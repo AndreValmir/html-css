@@ -15,7 +15,7 @@ h1{
 h2{
     color: #3c805e;
 }
-.basico{
+.basico {
     color: #3c805e;
     font-weight: bold;
 }
@@ -24,4 +24,7 @@ h2{
 }
 .avancado{
     color: #803c3c;
+}
+.destaque{
+    background-color: #c5c56070;
 }
